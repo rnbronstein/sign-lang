@@ -1,0 +1,9 @@
+# Sign Languages: A Project About Languages on Signs
+
+I like to make note of what languages are on the signs the city puts up in the parks. The first two languages tend to be in English and Spanish, but usually there is at least one other language. At my dog run, the signs are in English, Spanish, and Yiddish. I appreciate that my dog has the opportunity to learn about my Ashkenazi cultural background (despite the fact that Hasidic people do not tend to keep dogs as pets) People say Yiddish is a dead language, but it is pretty alive of it to be on a sign by the government.
+
+The translations on these signs are part of [NYC Parks' Language Access Plan](https://www.nycgovparks.org/sub_about/lap_dpr.pdf), which seeks to improve accessibility of city resources through support of seven common languages spoken in NYC: English, Spanish, Russian, Chinese, Haitian Creole, Korean, and Italian. There are at least two other languages in use that are not on the little list I found online (Yiddish and Polish) so perhaps there are others out there. The languages are drawn from the top three spoken in the census tract, although it seems like if you get really mad they will add other languages for you (as was the case when Greenpoint residents took issue with the exclusion of Polish from signs in McGoldrick Park). 
+ 
+I am fascinated by these signs. They are Rosetta Stones for all the different ways to admonish someone for walking on grass. They serve as little announcements about who the city expects will be using the park.
+
+This is a web application to keep track of all the signs out there and to put them on a map. I mostly only go to one park (discussed above) so I hope other people also use this app and then maybe we can finally figure out who all lives in this city. 

@@ -1,0 +1,23 @@
+{
+  "name": "sign-lang",
+  "version": "1.0.0",
+  "description": "a little app to map languages on nyc parks signs",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnbronstein/sign-lang.git"
+  },
+  "keywords": [],
+  "author": "Rachel \"Nash\" Bronstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnbronstein/sign-lang/issues"
+  },
+  "homepage": "https://github.com/rnbronstein/sign-lang#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
